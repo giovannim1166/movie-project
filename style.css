@@ -1,12 +1,14 @@
 .camp {
     color:white;
     text-align:center;
+    
 }
 #summary {
     position:relative;
     top:10px;
     color:white;
     width:200px;
+    font-family: 'Shadows Into Light', cursive;
 }
 #email{
     position:absolute;
