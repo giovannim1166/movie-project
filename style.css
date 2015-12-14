@@ -1,7 +1,15 @@
 .camp {
     color:white;
+    text-align:center;
 }
 #summary {
-    color:whi;
+    position:relative;
+    top:10px;
+    color:white;
     width:200px;
+}
+#email{
+    position:absolute;
+    bottom:30px;
+    color:white;
 }
