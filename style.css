@@ -2,6 +2,7 @@
     color:white;
     text-align:center;
     font-family: 'Shadows Into Light', cursive;
+    background-image: url("http://res.freestockphotos.biz/pictures/8/8992-close-up-of-a-fire-pv.jpg")
 }
 #summary {
     position:relative;
@@ -11,7 +12,12 @@
     font-family: 'Shadows Into Light', cursive;
 }
 #email{
-    position:absolute;
+    position:fixed;
     bottom:30px;
     color:white;
 }
+#blood{
+    
+    background-image:url("http://www.cooldesktopbackgrounds.net/wallpapers/blood%20splatters/480x320.jpg"); 
+    z-index:2;}
+
